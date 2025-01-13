@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: dark
   font: native
   font_size: L
 
@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'TIGER Talks'
+    description: 'A vibrant platform for researchers, students, and professionals to explore cutting-edge topics in IR, RS, HCI, NLP, and more.'
+    twitter: 'GRP-TIGER'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-XR2157KEVF'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} TIGER Talks. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,7 +55,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan, 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -63,16 +63,16 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/TIGER-Talks/TIGER-Talks.github.io'
     content_dir: content
     branch: main
   avatar:
