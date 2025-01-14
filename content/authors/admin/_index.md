@@ -1,41 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chenglong Ma
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Chenglong
+last_name: Ma
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: RMIT University
+    url: 'https://www.rmit.edu.au/'
+  - name: ADM+S Centre
+    url: 'https://www.admscentre.org.au/chenglong-ma/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Information Retrieval, Recommender Systems, and Responsible AI.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Recommender Systems
+  - Responsible AI
   - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: RMIT University
+      year: 2020
+    - course: Master in Information Technology
+      institution: RMIT University
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

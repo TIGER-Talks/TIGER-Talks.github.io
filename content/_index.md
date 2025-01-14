@@ -1,21 +1,44 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-01-01
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: Upcoming Talks
+      subtitle: Here are the next three talks scheduled at TIGER Talks.
+      text: |
+
+        {{% chenglongma_countdown date="2025-01-14 12:00" %}}
+        
+        {{% cta cta_link="./talks/" cta_text="View all talks →" %}}
+    design:
+      columns: '1'
+      background:
+        image:
+          filename: upcoming-talks.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        TIGER Talks
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Welcome to the TIGER Talks website. Here you will find information about our upcoming events, latest news, and preprints.
+        
   
   - block: collection
     content:
@@ -38,9 +61,12 @@ sections:
   
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: Upcoming Talks
+      subtitle: Here are the next three talks scheduled at TIGER Talks.
+      text: |
+        asdfsadf
+        sadf
+        www
     design:
       columns: '1'
       background:

@@ -1,9 +1,0 @@
-# At the bottom of your `config.toml` is a Module section:
-[module]
-
-  # Your existing modules will appear here.
-
-  # Add your shortcode's GitHub URL below.
-  # Replace <USERNAME> and <SHORTCODE-NAME> with your GitHub username and shortcode name, respectively.
-  [[module.imports]]
-    path = "github.com/ChenglongMa/wowchemy-shortcode-countdown"
