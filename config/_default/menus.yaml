@@ -20,5 +20,13 @@ main:
   #   url: publication
   #   weight: 50
   - name: Contact
-    url: contact
+    identifier: contact
+#    url: contact
     weight: 60
+  - name: Nominate a Speaker
+    parent: contact
+    url: https://forms.office.com/r/NWevdcfcMF
+    weight: 10
+    params:
+      rel: external
+    pre: <i class="fa fa-link"></i>
