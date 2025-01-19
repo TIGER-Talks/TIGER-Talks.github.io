@@ -7,5 +7,5 @@ view: card
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'coders.jpg'
+  image: 'tiger-banner.jpg'
 ---

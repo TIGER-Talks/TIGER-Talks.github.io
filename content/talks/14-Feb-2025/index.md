@@ -1,41 +1,46 @@
 ---
-title: Example Event
+title: LLMs can be Fooled into Labelling a Document as Relevant
 
-event: Wowchemy Conference
+event: TIGER Talk
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: RMIT University & Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 124 La Trobe St
+  city: Melbourne
+  region: VIC
+  postcode: '3000'
+  country: Australia
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Marwah Alaofi presents her **SIGIR-AP 2024 Best Paper** on how Large Language Models can be fooled into labelling a document as relevant.
+abstract: 'Large Language Models ( LLM s) are increasingly being used to assess the relevance of information objects. 
+        This work reports on experiments to study the labelling of short texts (i.e., passages) for relevance, using 
+        multiple open-source and proprietary LLMs. While the overall agreement of some LLM s with human judgements is
+        comparable to human-to-human agreement measured in previous research, LLM s are more likely to label passages
+        as relevant compared to human judges, indicating that LLM labels denoting non-relevance are more reliable than
+        those indicating relevance.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-02-14T12:00:00+11:00'
+date_end: '2025-02-14T13:00:00+11:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-14T12:00:00+11:00'
 
-authors: []
-tags: []
+authors: [admin]
+tags: [Talk, IR, LLM, SIGIR-AP, Relevance, Labelling]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Photo by [Victor Serban](https://unsplash.com/@victorserban?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") on [Unsplash](https://unsplash.com/photos/woman-in-blue-and-white-dress-SgAqgz9tEKw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash")'
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3673791.3698431'
 url_slides: ''
 url_video: ''
 
@@ -54,14 +59,20 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+**Speaker:** [Marwah Alaofi](https://marwahalaofi.com/)
 
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+**Date:** 14th February 2025
 
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-date="2025-01-15 23:23">Countdown Timer</a>
+**Time:** 12:00 PM - 1:00 PM
 
+**Location:** RMIT University & Online
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+**Abstract:**
+Large Language Models ( LLM s) are increasingly being used to assess the relevance of information objects. 
+This work reports on experiments to study the labelling of short texts (i.e., passages) for relevance, using 
+multiple open-source and proprietary LLMs. While the overall agreement of some LLM s with human judgements is
+comparable to human-to-human agreement measured in previous research, LLM s are more likely to label passages
+as relevant compared to human judges, indicating that LLM labels denoting non-relevance are more reliable than
+those indicating relevance.
+
+{{% cta cta_link="./talks/" cta_text="Register Now →" cta_new_tab="true" %}}
