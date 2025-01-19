@@ -1,7 +1,7 @@
 ---
 title: LLMs can be Fooled into Labelling a Document as Relevant
 
-event: TIGER Talk
+event: "Marwah Alaofi: LLMs can be Fooled into Labelling a Document as Relevant"
 event_url: https://example.org
 
 location: RMIT University & Online
@@ -59,6 +59,7 @@ slides:
 projects:
 ---
 
+{{% comment %}}
 **Speaker:** [Marwah Alaofi](https://marwahalaofi.com/)
 
 **Date:** 14th February 2025
@@ -74,5 +75,7 @@ multiple open-source and proprietary LLMs. While the overall agreement of some L
 comparable to human-to-human agreement measured in previous research, LLM s are more likely to label passages
 as relevant compared to human judges, indicating that LLM labels denoting non-relevance are more reliable than
 those indicating relevance.
+
+{{% /comment %}}
 
 {{% cta cta_link="./talks/" cta_text="Register Now →" cta_new_tab="true" %}}
