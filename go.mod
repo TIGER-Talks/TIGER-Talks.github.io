@@ -8,4 +8,4 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241223201730-71de892c1c61
 )
 
-require github.com/ChenglongMa/hugo-shortcode-countdown v0.0.0-20250114005257-043d3afc0881 // indirect
+require github.com/ChenglongMa/hugo-shortcode-countdown v0.0.0-20250117112146-41d5c777ab4e // indirect

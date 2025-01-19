@@ -6,39 +6,68 @@ type: landing
 
 sections:
   - block: markdown
+    id: section-upcoming-talks
     content:
-      title: Upcoming Talks
-      subtitle: Here are the next three talks scheduled at TIGER Talks.
+      title: Upcoming TIGER Talk
+      subtitle: LLMs can be Fooled into Labelling a Document as Relevant
       text: |
 
-        {{% chenglongma_countdown date="2025-01-14 12:00" %}}
+        {{% chenglongma_countdown date="2025-02-14 12:00" %}}
         
-        {{% cta cta_link="./talks/" cta_text="View all talks →" %}}
+        **Speaker:** [Marwah Alaofi](https://marwahalaofi.com/)
+        
+        **Date:** 14th February 2025
+        
+        **Time:** 12:00 PM
+        
+        **Location:** RMIT University & Online
+        
+        **Abstract:**
+
+        Large Language Models ( LLM s) are increasingly being used to assess the relevance of information objects. 
+        This work reports on experiments to study the labelling of short texts (i.e., passages) for relevance, using 
+        multiple open-source and proprietary LLMs. While the overall agreement of some LLM s with human judgements is
+        comparable to human-to-human agreement measured in previous research, LLM s are more likely to label passages
+        as relevant compared to human judges, indicating that LLM labels denoting non-relevance are more reliable than
+        those indicating relevance.
+        
+        {{% cta cta_link="./talks/" cta_text="Register Now →" cta_new_tab="true" %}}
+
     design:
       columns: '1'
       background:
+#        gradient_start: '#4bb4e3'
+#        gradient_end: '#2b94c3'
+#        # The gradient angle from 0-360 degrees
+#        gradient_angle: 180
+        
         image:
           filename: upcoming-talks.jpg
           filters:
-            brightness: 1
+            brightness: 0.5
           parallax: false
           position: center
           size: cover
-          text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      css_class: fullscreen text-white
   - block: hero
     content:
       title: |
         TIGER Talks
       image:
-        filename: welcome.jpg
+        filename: welcome.jpeg
       text: |
         <br>
+
+        "Chuffing~" 👋
+
+        Empowering academic collaboration and innovation through inclusive and interdisciplinary discussions in IR, 
+        RecSys, NLP, HCI, LLM and beyond.
         
-        Welcome to the TIGER Talks website. Here you will find information about our upcoming events, latest news, and preprints.
-        
+        Andrew Turpin founded TIGER in 2006 and organized weekly meetings for quite some time. TIGER aims to foster a 
+        vibrant research community by connecting students, staff, and external collaborators to explore cutting-edge 
+        topics, share insights, and advance knowledge across diverse domains.
   
   - block: collection
     content:

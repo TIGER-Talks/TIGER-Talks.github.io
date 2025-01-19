@@ -6,7 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  # https://bootstrap.hugoblox.com/getting-started/customization/#color-themes
+  # https://discord.com/channels/722225264733716590/1192147197517631518/1192167604987642008
+  theme_day: tiger
   theme_night: dark
   font: native
   font_size: L
@@ -19,7 +21,7 @@ marketing:
     local_business_type: ''
     org_name: 'TIGER Talks'
     description: 'A vibrant platform for researchers, students, and professionals to explore cutting-edge topics in IR, RS, HCI, NLP, and more.'
-    twitter: 'GRP-TIGER'
+    twitter: 'RMITIGER'
   analytics:
     google_analytics: 'G-XR2157KEVF'
     baidu_tongji: ''

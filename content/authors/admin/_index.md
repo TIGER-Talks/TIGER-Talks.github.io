@@ -20,12 +20,13 @@ organizations:
     url: 'https://www.admscentre.org.au/chenglong-ma/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Information Retrieval, Recommender Systems, and Responsible AI.
+bio: I'm a Research Fellow at ADM+S RMIT node. My research interests include Information Retrieval, Recommender Systems, and Responsible AI.
 
 interests:
   - Recommender Systems
   - Responsible AI
   - Information Retrieval
+  - Generative AI
 
 education:
   courses:
@@ -41,18 +42,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: globe
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: https://chenglongma.com/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ChenglongM
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=cUwRjTQAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ChenglongMa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +72,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Platforms like Amazon and YouTube train their recommender systems by understanding user interest from their interaction history. In the normal days, no problem. But during extraordinary events like the COVID-19 pandemic, people tend to exhibit unusual behavior, such as panic buying. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work is to differentiate between genuine user interests and irrational behavior, in order to improve the quality of recommendations.
