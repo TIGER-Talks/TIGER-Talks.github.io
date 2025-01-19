@@ -3,30 +3,36 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
+main_right:
   - name: About
     url: tour
     weight: 10
-#  - name: News
-#    url: post
-#    weight: 20
+  #  - name: News
+  #    url: post
+  #    weight: 20
   # - name: People
   #   url: people
   #   weight: 30
   - name: Talks
     url: talks
-    weight: 40
+    weight: 20
   # - name: Publications
   #   url: publication
   #   weight: 50
-  - name: Contact
-    identifier: contact
-#    url: contact
-    weight: 60
-  - name: Nominate a Speaker
-    parent: contact
+#  - name: Contact
+#    identifier: contact
+#    #    url: contact
+#    weight: 60
+  - name: Recommend a Speaker
+#    parent: contact
     url: https://forms.office.com/r/NWevdcfcMF
-    weight: 10
-    params:
-      rel: external
-    pre: <i class="fa fa-link"></i>
+    target: "_blank"
+    weight: 30
+    post: '&nbsp;<i class="fa fa-external-link" aria-hidden="true" style="color: gray; font-size: 0.8em;"></i>'
+  - name: Feedback
+#    parent: contact
+    url: https://forms.office.com/r/yt91ENZmuF
+    target: "_blank"
+    weight: 40
+    post: '&nbsp;<i class="fa fa-external-link" aria-hidden="true" style="color: gray; font-size: 0.8em;"></i>'
+
