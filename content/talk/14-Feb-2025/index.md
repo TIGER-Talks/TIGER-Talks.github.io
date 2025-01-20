@@ -1,7 +1,7 @@
 ---
 title: LLMs can be Fooled into Labelling a Document as Relevant
 
-event: "Marwah Alaofi: LLMs can be Fooled into Labelling a Document as Relevant"
+event: "TIGER Talk: LLMs can be Fooled into Labelling a Document as Relevant"
 event_url: https://example.org
 
 location: RMIT University & Online
@@ -12,6 +12,8 @@ address:
   postcode: '3000'
   country: Australia
 
+speaker: Marwah Alaofi
+speaker_url: "https://marwahalaofi.com/"
 summary: Marwah Alaofi presents her **SIGIR-AP 2024 Best Paper** on how Large Language Models can be fooled into labelling a document as relevant.
 abstract: 'Large Language Models ( LLM s) are increasingly being used to assess the relevance of information objects. 
         This work reports on experiments to study the labelling of short texts (i.e., passages) for relevance, using 

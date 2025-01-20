@@ -113,7 +113,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: event
+      page_type: talk
     design:
       view: card
       columns: '1'

@@ -14,7 +14,7 @@ main_right:
   #   url: people
   #   weight: 30
   - name: Talks
-    url: event
+    url: talk
     weight: 20
   # - name: Publications
   #   url: publication
