@@ -4,6 +4,7 @@
 
 * Theme Research Group: https://github.com/HugoBlox/theme-research-group
 * Theme Customization: https://bootstrap.hugoblox.com/getting-started
+* Markdown Formatting: https://docs.hugoblox.com/reference/markdown/
 * HugoBlox Builder: https://github.com/HugoBlox/hugo-blox-builder
 * Free images: https://unsplash.com/
 
@@ -13,6 +14,7 @@
 
 1. Copy the folder [content/talk/14-Feb-2025/](content/talk/14-Feb-2025) and rename it with **the new talk date**.
 2. Update the `index.md` file with the new talk details.
+   * Please refer to [Markdown Formatting](https://docs.hugoblox.com/reference/markdown/) for Hugo Markdown syntax.
 3. Change the `featured.jpg` image to the new talk image.
    * Please put all images in the [assets/media/](assets/media/) folder.
 
@@ -33,6 +35,12 @@ Key Checklist:
 - [ ] `chenglongma_countdown` - Update the talk `date`.
   - The date format is `YYYY-MM-DD HH:MM`, which is **Australian Eastern Standard Time (AEST)**.
 - [ ] `cta_link` - Update the link to the **Registration** page.
+
+## Update a Past Talk
+
+1. Update the `index.md` file in the respective talk folder.
+2. Update the `featured.jpg` image if required.
+3. Update the talk resources, such as `url_pdf`, `url_video`, `url_slides`, etc.
 
 ## Advanced Customization
 

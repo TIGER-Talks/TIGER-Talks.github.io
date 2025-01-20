@@ -61,23 +61,4 @@ slides:
 projects:
 ---
 
-{{% comment %}}
-**Speaker:** [Marwah Alaofi](https://marwahalaofi.com/)
-
-**Date:** 14th February 2025
-
-**Time:** 12:00 PM - 1:00 PM
-
-**Location:** RMIT University & Online
-
-**Abstract:**
-Large Language Models ( LLM s) are increasingly being used to assess the relevance of information objects. 
-This work reports on experiments to study the labelling of short texts (i.e., passages) for relevance, using 
-multiple open-source and proprietary LLMs. While the overall agreement of some LLM s with human judgements is
-comparable to human-to-human agreement measured in previous research, LLM s are more likely to label passages
-as relevant compared to human judges, indicating that LLM labels denoting non-relevance are more reliable than
-those indicating relevance.
-
-{{% /comment %}}
-
 {{% cta cta_link="./talks/" cta_text="Register Now →" cta_new_tab="true" %}}
