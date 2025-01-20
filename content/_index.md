@@ -65,20 +65,11 @@ sections:
         **Chuffing~** 👋 We are a group of researchers and students who are passionate about Information Retrieval,
         Recommender Systems, Natural Language Processing, Human-Computer Interaction, Large Language Models, and beyond.
 
-        {{% comment %}}        
-        **TIGER Talks:** _Empowering academic collaboration and innovation through inclusive and interdisciplinary discussions in 
-        IR, RecSys, NLP, HCI, LLM and beyond._
-        
-        Andrew Turpin founded TIGER in 2006 and organized weekly meetings for quite some time. TIGER aims to foster a 
-        vibrant research community by connecting students, staff, and external collaborators to explore cutting-edge 
-        topics, share insights, and advance knowledge across diverse domains.
-        {{% /comment %}}
-
-#      cta:
-#        url: "https://example.com"
-#        label: "Get Started"
-#        icon: "rocket"
-#        icon_pack: "fas"
+      cta:
+        url: tour
+        label: "Take a Tour"
+        icon: "rocket"
+        icon_pack: "fas"
 #      cta_alt:
 #        url: "https://example.com/learn-more"
 #        label: "Learn More"
