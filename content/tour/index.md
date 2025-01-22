@@ -11,7 +11,7 @@ sections:
       - title: 👋 Welcome to TIGER Talks!
         content: |
           **T**he **I**nformation retrieval **GE**neral **R**eading (TIGER) Group         
-          <a href="https://www.linkedin.com/company/rmit-tiger-talks" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;&nbsp;<a href="https://x.com/RMITIGER" target="_blank"><i class="fa-brands fa-square-x-twitter"></i></a>
+          <a href="https://www.linkedin.com/company/rmit-tiger-talks" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>&nbsp;&nbsp;<a href="https://x.com/RMITIGER" target="_blank" rel="noopener"><i class="fa-brands fa-square-x-twitter"></i></a>
           <br><br>_Take a look at what we're working on..._
         align: center
         background:
