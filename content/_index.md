@@ -29,8 +29,10 @@ sections:
         comparable to human-to-human agreement measured in previous research, LLM s are more likely to label passages
         as relevant compared to human judges, indicating that LLM labels denoting non-relevance are more reliable than
         those indicating relevance.
-        
+
+        {{% comment %}}
         {{% cta cta_link="./talks/" cta_text="Register Now →" cta_new_tab="true" %}}
+        {{% /comment %}}
 
     design:
       columns: '1'
