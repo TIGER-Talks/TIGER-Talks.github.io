@@ -2,7 +2,7 @@
 title: LLMs can be Fooled into Labelling a Document as Relevant
 
 event: "TIGER Talk: LLMs can be Fooled into Labelling a Document as Relevant"
-event_url: https://example.org
+# event_url: https://example.org
 
 location: RMIT University & Online
 address:
@@ -24,6 +24,7 @@ abstract: 'Large Language Models ( LLM s) are increasingly being used to assess 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
+
 date: '2025-02-14T12:00:00+11:00'
 date_end: '2025-02-14T13:00:00+11:00'
 all_day: false
@@ -61,4 +62,14 @@ slides:
 projects:
 ---
 
+{{% comment %}}
 {{% cta cta_link="./talks/" cta_text="Register Now →" cta_new_tab="true" %}}
+
+{{% callout warning %}}
+The date and time for this talk is to be announced soon.
+{{% /callout %}}
+{{% /comment %}}
+
+> [!NOTIFY]
+> The date and time for this talk is to be announced soon.
+> 

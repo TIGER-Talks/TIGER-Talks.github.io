@@ -9,3 +9,4 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
   - path: github.com/ChenglongMa/hugo-shortcode-countdown
+  - path: github.com/KKKZOZ/hugo-admonitions

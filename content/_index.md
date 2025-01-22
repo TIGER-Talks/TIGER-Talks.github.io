@@ -16,9 +16,9 @@ sections:
         
         **Speaker:** [Marwah Alaofi](https://marwahalaofi.com/)
         
-        **Date:** 14th February 2025
+        **Date:** _TO BE ANNOUNCED_
         
-        **Time:** 12:00 PM - 1:00 PM
+        **Time:** _TO BE ANNOUNCED_
         
         **Location:** RMIT University & Online
         
