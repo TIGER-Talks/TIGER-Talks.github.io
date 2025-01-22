@@ -18,7 +18,7 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
+    local_business_type: 'Research Services'
     org_name: 'TIGER Talks'
     description: 'A vibrant platform for researchers, students, and professionals to explore cutting-edge topics in IR, RS, HCI, NLP, and more.'
     twitter: 'RMITIGER'

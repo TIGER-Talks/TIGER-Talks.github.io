@@ -10,5 +10,7 @@ require (
 
 require (
 	github.com/ChenglongMa/hugo-shortcode-countdown v0.0.0-20250120054921-5500d06ddd3c // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3 // indirect
 	github.com/KKKZOZ/hugo-admonitions v0.4.5 // indirect
 )

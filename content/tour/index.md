@@ -10,8 +10,9 @@ sections:
       slides:
       - title: 👋 Welcome to TIGER Talks!
         content: |
-          **T**he **I**nformation retrieval **GE**neral **R**eading (TIGER) Group
-          _Take a look at what we're working on..._
+          **T**he **I**nformation retrieval **GE**neral **R**eading (TIGER) Group         
+          <a href="https://www.linkedin.com/company/rmit-tiger-talks" target="_blank"><i class="fa-brands fa-linkedin"></i></a>&nbsp;&nbsp;<a href="https://x.com/RMITIGER" target="_blank"><i class="fa-brands fa-square-x-twitter"></i></a>
+          <br><br>_Take a look at what we're working on..._
         align: center
         background:
           image:
@@ -44,11 +45,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-#        link:
-#          icon: graduation-cap
-#          icon_pack: fas
-#          text: Join Us
-#          url: ../contact/
       - title: Who Can Join?
         content: "<br>- **Students**: Interested in academic research or looking to showcase their work.<br>
           - **Faculty and Researchers**: Academics from any discipline seeking to engage in dynamic discussions and collaborations.<br>
@@ -75,6 +71,11 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+        link:
+          icon: chalkboard-user
+          icon_pack: fas
+          text: Check out our talks
+          url: ../talk/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
