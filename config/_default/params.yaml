@@ -18,7 +18,7 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: 'Research Services'
+    local_business_type: 'ResearchOrganization'
     org_name: 'TIGER Talks'
     description: 'A vibrant platform for researchers, students, and professionals to explore cutting-edge topics in IR, RS, HCI, NLP, and more.'
     twitter: 'RMITIGER'
@@ -26,9 +26,9 @@ marketing:
     google_analytics: 'G-XR2157KEVF'
     baidu_tongji: ''
     google_tag_manager: 'GTM-MNXRDTQV'
-    microsoft_clarity: ''
+    microsoft_clarity: 'pyc8k42i0z'
   verification:
-    google: ''
+    google: 'juGpfAXpBVHqPCjq-Tdkc6IKKaJi4sZJNZNeZ2s0iE4'
     baidu: ''
 
 # Site header
