@@ -47,7 +47,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} TIGER Talks. This work is licensed under {license}'
+    notice: |
+      We acknowledge the Traditional Owners of Country throughout Australia and recognise the continuing connection to lands, waters and communities.
+      <br>
+      We pay our respect to Aboriginal and Torres Strait Islander cultures; and to Elders past and present.
+      <br><br>
+      © {year} TIGER Talks. This work is licensed under {license}
     license:
       enable: true
       allow_derivatives: false
@@ -78,7 +83,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''

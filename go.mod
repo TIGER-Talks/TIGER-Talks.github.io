@@ -1,6 +1,6 @@
 module github.com/wowchemy/starter-hugo-research-group
 
-go 1.23.4
+go 1.23.5
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20241223201730-71de892c1c61

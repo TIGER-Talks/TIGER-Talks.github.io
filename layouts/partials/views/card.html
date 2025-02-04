@@ -34,7 +34,7 @@
     </span>
     {{ with $item.Params.location }}
     <span class="middot-divider"></span>
-    <span>{{ . }}</span>
+    <span>{{ . | markdownify }}</span>
     {{ end }}
   </div>
   {{ else }}
@@ -55,7 +55,8 @@
   {{end}}
 
   <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{$item.Params.speaker}}: {{ $item.Title }}</a>
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+<!--    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{$item.Params.speaker | safeHTML}}: {{ $item.Title }}</a>-->
   </div>
 
   {{ with $summary }}

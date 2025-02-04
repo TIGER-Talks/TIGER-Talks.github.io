@@ -1,5 +1,6 @@
 ---
 title: Dense Retrieval with Apache Solr Neural Search
+draft: false
 
 event: "TIGER Talk: Dense Retrieval with Apache Solr Neural Search"
 
