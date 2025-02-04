@@ -1,6 +1,6 @@
 ---
 title: LLMs can be Fooled into Labelling a Document as Relevant
-draft: true
+draft: false
 
 event: "TIGER Talk: LLMs can be Fooled into Labelling a Document as Relevant"
 # event_url: https://example.org
