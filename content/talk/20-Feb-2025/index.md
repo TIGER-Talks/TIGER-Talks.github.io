@@ -71,13 +71,19 @@ projects:
 ---
 
 {{% comment %}}
-{{% cta cta_link="./talks/" cta_text="Register Now →" cta_new_tab="true" %}}
 
 {{% callout warning %}}
 The date and time for this talk is to be announced soon.
 {{% /callout %}}
 {{% /comment %}}
 
+{{% cta cta_link="https://events.teams.microsoft.com/event/726c028d-c66e-4211-9029-62c1f6466da1@d1323671-cdbe-4417-b4d4-bdb24b51316b" cta_text="Register Now →" cta_new_tab="true" %}}
+
+### Getting There
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.222093623283!2d144.96027981258027!3d-37.80826657186005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642cb67178b05%3A0xe5c2160ff784f314!2sBuilding%2080%20(Swanston%20Academic%20Building)%20-%20RMIT%20University!5e0!3m2!1sen!2sau!4v1738711638555!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 > [!NOTIFY]
-> The registration link will be available soon. Stay tuned!
 > 
+> The **shared resources** will be available after the talk. Stay tuned!
+>
