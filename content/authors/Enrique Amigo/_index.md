@@ -42,18 +42,21 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://sites.google.com/view/enriqueamigo/home
-  - icon: dblp
-    icon_pack: ai
-    link: https://dblp.org/pid/71/5174.html
+#  - icon: dblp
+#    icon_pack: ai
+#    link: https://dblp.org/pid/71/5174.html
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.es/citations?user=bKozrvsAAAAJ&hl=en
-  - icon: linkedin
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/enrique-amig%C3%B3-8357711a/
+#  - icon: orcid
+#    icon_pack: ai
+#    link: https://orcid.org/0000-0003-1482-824X
+  - icon: instagram
     icon_pack: fab
-    link: https://www.linkedin.com/in/enrique-amig%C3%B3-8357711a/
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0003-1482-824X
+    link: https://www.instagram.com/enrique_amigo/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
