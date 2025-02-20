@@ -45,7 +45,7 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://chenglongma.com/
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/ChenglongM
   - icon: google-scholar
