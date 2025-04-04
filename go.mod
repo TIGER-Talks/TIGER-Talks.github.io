@@ -1,11 +1,11 @@
 module github.com/wowchemy/starter-hugo-research-group
 
-go 1.24.0
+go 1.24.2
 
 require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20241223201730-71de892c1c61
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20241223201730-71de892c1c61
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241223201730-71de892c1c61
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20250301201144-44e75541f7be
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20250301201144-44e75541f7be
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20250301201144-44e75541f7be
 )
 
 require (

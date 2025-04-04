@@ -12,7 +12,7 @@
 
 ### Step 1: Add a New Talk
 
-1. Copy the folder [content/talk/14-Feb-2025/](content/talk/14-Feb-2025) and rename it with **the new talk date**.
+1. Copy the folder [content/talk/11-Apr-2025/](content/talk/11-Apr-2025) and rename it with **the new talk date**.
 2. Update the `index.md` file with the new talk details.
    * Please refer to [Markdown Formatting](https://docs.hugoblox.com/reference/markdown/) for Hugo Markdown syntax.
 3. Change the `featured.jpg` image to the new talk image.

@@ -9,33 +9,27 @@ sections:
     id: section-upcoming-talks
     content:
       title: Upcoming TIGER Talk
-      subtitle: New Dimensions of Evaluation Amid the Rise of Large Language Models
+      subtitle: LLMs can be Fooled into Labelling a Document as Relevant
       text: |
 
-        {{% chenglongma_countdown date="2025-02-20 12:00" %}}
+        {{% chenglongma_countdown date="2025-04-11 15:30" %}}
         
-        **Speaker:** {{% mention "Enrique Amigo" %}}
+        **Speaker:** {{% mention "Marwah Alaofi" %}}
         
-        **Date:** 20 February, 2025
+        **Date:** 11 April, 2025
         
-        **Time:** 12:00 PM - 1:00 PM (AEDT)
+        **Time:** 3:30 PM - 4:30 PM (AEDT)
         
-        **Location:** **B080.06.005** at RMIT University & MS Teams
+        **Location:** **B080.09.012** at RMIT University & MS Teams
         
         **Abstract:**
-        So far, in information retrieval, recommendation systems, and artificial intelligence in general, automatic 
-        offline evaluation benchmarks (based on comparisons between the output and a gold standard) have focused on **effectiveness**,
-        alongside parallel research on some issues such as bias or diversity. However, with the emergence of large language models,
-        it has become necessary to consider a broader spectrum of evaluation dimensions, including aspects such as **harmful content**,
-        **explainability power**, **hallucination**, **informativeness** or **reasoning capabilities**. This talk presents a taxonomy of evaluation
-        dimensions, as well as existing benchmarks and metrics, highlighting their strengths and limitations. The goal is to provide
-        a comprehensive overview that enables the design of research work from different perspectives, as well as to outline a
-        general methodology for offline evaluation of intelligent systems.
+        This talk presents experiments to study the labelling of short texts (i.e., passages) for relevance, using multiple open-source and proprietary LLMs. While the overall agreement of some LLMs with human judgements is comparable to human-to-human agreement measured in previous research, LLMs are more likely to label passages as relevant compared to human judges, indicating that LLM labels denoting non-relevance are more reliable than those indicating relevance.
 
-        {{% cta cta_link="./talk/20-feb-2025/" cta_text="Read More →" cta_new_tab="false" %}}
-        {{% comment %}}
-        {{% cta cta_link="./talks/" cta_text="Register Now →" cta_new_tab="true" %}}
-        {{% /comment %}}
+        This observation prompts us to further examine cases where human judges and LLMs disagree, particularly when the human judge labels the passage as non-relevant and the LLM labels it as relevant. Results show a tendency for many LLMs to label passages that include the original query terms as relevant. We, therefore, conduct experiments to inject query words into random and irrelevant passages. The results demonstrate that LLMs are highly influenced by the presence of query words in the passages under assessment, even if the wider passage has no relevance to the query. This tendency of LLMs to be fooled by the mere presence of query words demonstrates a weakness in our current measures of LLM labelling: relying on overall agreement misses important patterns of failures. There is a real risk of bias in LLM-generated relevance labels and, therefore, a risk of bias in rankers trained on those labels.
+
+        Additionally, we investigate the effects of deliberately manipulating LLMs by instructing them to label passages as relevant. We find that such manipulation influences the performance of some LLMs, highlighting the critical need to consider potential vulnerabilities when deploying LLMs in real-world applications.
+
+        {{% cta cta_link="./talk/11-apr-2025/" cta_text="Read More →" cta_new_tab="false" %}}
 
     design:
       columns: '1'
