@@ -67,7 +67,7 @@ slides:
 projects:
 ---
 
-{{% cta cta_link="https://events.teams.microsoft.com/event/9f405cc9-49a6-45b6-bf61-5d9fb7f8eb44@d1323671-cdbe-4417-b4d4-bdb24b51316b" cta_text="Register Now →" cta_new_tab="true" %}}
+<!-- {{% cta cta_link="https://events.teams.microsoft.com/event/9f405cc9-49a6-45b6-bf61-5d9fb7f8eb44@d1323671-cdbe-4417-b4d4-bdb24b51316b" cta_text="Register Now →" cta_new_tab="true" %}} -->
 
 <!-- {{% callout warning %}} -->
 <!-- The date and time for this talk is to be announced soon. -->
@@ -79,9 +79,9 @@ projects:
 > ![Marwah is showing the Best Paper Honorable Mention award at SIGIR-AP'24](/uploads/talks/11-Apr-2025/award.jpg "The paper won the Best Paper Honorable Mention award at SIGIR-AP'24.<br>Source: [
 Prof. Mark Sanderson's LinkedIn Post.](https://www.linkedin.com/posts/marksandersonresearcher_many-congratulations-to-marwah-alaofi-on-activity-7273106582949785601-6fJz/)")
 
-> [!MEMO]
-> The **shared resources** will be available after the talk. Stay tuned!
->
+<!-- > [!MEMO] -->
+<!-- > The **shared resources** will be available after the talk. Stay tuned! -->
+<!-- > -->
 
 ### Getting There
 

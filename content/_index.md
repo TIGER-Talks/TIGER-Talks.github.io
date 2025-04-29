@@ -9,27 +9,23 @@ sections:
     id: section-upcoming-talks
     content:
       title: Upcoming TIGER Talk
-      subtitle: LLMs can be Fooled into Labelling a Document as Relevant
+      subtitle: A Weighted Correlation Index for Rankings with Ties
       text: |
 
-        {{% chenglongma_countdown date="2025-04-11 15:30" %}}
+        {{% chenglongma_countdown date="2025-05-09 15:30" %}}
         
-        **Speaker:** {{% mention "Marwah Alaofi" %}}
+        **Speaker:** {{% mention "Sebastiano Vigna" %}}
         
-        **Date:** 11 April, 2025
+        **Date:** 09 May, 2025
         
         **Time:** 3:30 PM - 4:30 PM (AEDT)
         
         **Location:** **B080.09.012** at RMIT University & MS Teams
         
         **Abstract:**
-        This talk presents experiments to study the labelling of short texts (i.e., passages) for relevance, using multiple open-source and proprietary LLMs. While the overall agreement of some LLMs with human judgements is comparable to human-to-human agreement measured in previous research, LLMs are more likely to label passages as relevant compared to human judges, indicating that LLM labels denoting non-relevance are more reliable than those indicating relevance.
+        Understanding the correlation between two different scores for the same set of items is a common problem in graph analysis and information retrieval. The most commonly used statistics that quantifies this correlation is Kendall's $\tau$; however, the standard definition fails to capture that discordances between items with high rank are more important than those between items with low rank. Recently, a new measure of correlation based on average precision has been proposed to solve this problem, but like many alternative proposals in the literature it assumes that there are no ties in the scores. This is a major deficiency in a number of contexts, and in particular when comparing centrality scores on large graphs, as the obvious baseline, indegree, has a very large number of ties in social networks and web graphs. We propose to extend Kendall's definition in a natural way to take into account weights in the presence of ties. We prove a number of interesting mathematical properties of our generalization and describe an O(n log n) algorithm for its computation. We also validate the usefulness of our weighted measure of correlation using experimental data on social networks and web graphs.
 
-        This observation prompts us to further examine cases where human judges and LLMs disagree, particularly when the human judge labels the passage as non-relevant and the LLM labels it as relevant. Results show a tendency for many LLMs to label passages that include the original query terms as relevant. We, therefore, conduct experiments to inject query words into random and irrelevant passages. The results demonstrate that LLMs are highly influenced by the presence of query words in the passages under assessment, even if the wider passage has no relevance to the query. This tendency of LLMs to be fooled by the mere presence of query words demonstrates a weakness in our current measures of LLM labelling: relying on overall agreement misses important patterns of failures. There is a real risk of bias in LLM-generated relevance labels and, therefore, a risk of bias in rankers trained on those labels.
-
-        Additionally, we investigate the effects of deliberately manipulating LLMs by instructing them to label passages as relevant. We find that such manipulation influences the performance of some LLMs, highlighting the critical need to consider potential vulnerabilities when deploying LLMs in real-world applications.
-
-        {{% cta cta_link="./talk/11-apr-2025/" cta_text="Read More →" cta_new_tab="false" %}}
+        {{% cta cta_link="./talk/09-may-2025/" cta_text="Read More →" cta_new_tab="false" %}}
 
     design:
       columns: '1'
