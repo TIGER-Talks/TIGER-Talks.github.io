@@ -1,8 +1,8 @@
 ---
-title: "Principal Data Science: Infinite Intelligence and Your Future Career"
+title: "From PhD to Industry: LLMs and Career Paths"
 draft: false
 
-event: "TIGER Talk: Principal Data Science: Infinite Intelligence and Your Future Career"
+event: "TIGER Talk: From PhD to Industry: LLMs and Career Paths"
 # event_url: https://example.org
 
 location: "**B080.11.009** at RMIT & MS Teams"

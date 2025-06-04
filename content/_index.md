@@ -9,7 +9,7 @@ sections:
     id: section-upcoming-talks
     content:
       title: Upcoming TIGER Talk
-      subtitle: "Principal Data Science: Infinite Intelligence and Your Future Career"
+      subtitle: "From PhD to Industry: LLMs and Career Paths"
       text: |
 
         {{% chenglongma_countdown date="2025-06-11 14:30" %}}
