@@ -8,6 +8,35 @@
 * HugoBlox Builder: https://github.com/HugoBlox/hugo-blox-builder
 * Free images: https://unsplash.com/
 
+## Local Development Guide
+
+### Prerequisites
+
+1. Install [Go](https://go.dev/doc/install) (version 1.20 or later).
+2. Install [Hugo-Extended](https://gohugo.io/installation/) (version 0.120.0 or later).
+   - > [!NOTE]
+     > Please use the **Extended** version of Hugo.
+     > 
+   - For example, on macOS, you can use [Homebrew](https://brew.sh/) to install Hugo Extended:
+     ```bash
+     brew install hugo
+     ```
+   - On Windows, you can install Hugo Extended using [Chocolatey](https://chocolatey.org/), [Scoop](https://scoop.sh/), or Winget:
+     ```bash
+     choco install hugo-extended
+     ```
+     refer to https://gohugo.io/installation/windows/ for more details.
+
+### Local Development and Preview
+
+1. Edit the files according to the [Adding a New Talk](#adding-a-new-talk) section.
+2. Run the following command to start the local development server:
+   ```bash
+   hugo server
+   ```
+   refer to [Hugo Server Documentation](https://gohugo.io/commands/hugo_server/) for more details.
+   
+
 ## Adding a New Talk
 
 ### Step 1: Add a New Talk
