@@ -9,23 +9,23 @@ sections:
     id: section-upcoming-talks
     content:
       title: Upcoming TIGER Talk
-      subtitle: A Weighted Correlation Index for Rankings with Ties
+      subtitle: "Principal Data Science: Infinite Intelligence and Your Future Career"
       text: |
 
-        {{% chenglongma_countdown date="2025-05-09 15:30" %}}
+        {{% chenglongma_countdown date="2025-06-11 14:30" %}}
         
-        **Speaker:** {{% mention "Sebastiano Vigna" %}}
+        **Speaker:** {{% mention "Amin Sadri" %}}
         
-        **Date:** 09 May, 2025
+        **Date:** 11 June, 2025
         
-        **Time:** 3:30 PM - 4:30 PM (AEDT)
+        **Time:** 2:30 PM - 3:30 PM (AEDT)
         
-        **Location:** **B080.09.012** at RMIT University & MS Teams
+        **Location:** **B080.11.009** at RMIT University & MS Teams
         
         **Abstract:**
-        Understanding the correlation between two different scores for the same set of items is a common problem in graph analysis and information retrieval. The most commonly used statistics that quantifies this correlation is Kendall's $\tau$; however, the standard definition fails to capture that discordances between items with high rank are more important than those between items with low rank. Recently, a new measure of correlation based on average precision has been proposed to solve this problem, but like many alternative proposals in the literature it assumes that there are no ties in the scores. This is a major deficiency in a number of contexts, and in particular when comparing centrality scores on large graphs, as the obvious baseline, indegree, has a very large number of ties in social networks and web graphs. We propose to extend Kendall's definition in a natural way to take into account weights in the presence of ties. We prove a number of interesting mathematical properties of our generalization and describe an O(n log n) algorithm for its computation. We also validate the usefulness of our weighted measure of correlation using experimental data on social networks and web graphs.
+        This talk is divided into two parts. In the first, we'll explore the latest advances in artificial intelligence, from large language models (LLMs) to cutting-edge applications across industries. We'll also touch on the intriguing question of whether AI could ever approach a state of "infinite intelligence", and what that might mean for both research and society. In the second part, I'll share my personal journey transitioning from a PhD in machine learning to a role as Principal Data Scientist. We'll discuss the key differences between academic and industry ML, real-world case studies, and offer actionable career advice for PhD students interested in moving to industry—covering skills to build, common pitfalls, and how to bridge the gap between research and practical impact.
 
-        {{% cta cta_link="./talk/09-may-2025/" cta_text="Read More →" cta_new_tab="false" %}}
+        {{% cta cta_link="./talk/11-jun-2025/" cta_text="Read More →" cta_new_tab="false" %}}
 
     design:
       columns: '1'

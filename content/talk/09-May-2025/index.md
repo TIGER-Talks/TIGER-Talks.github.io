@@ -61,8 +61,8 @@ image:
 
 url_code: ''
 url_pdf: 'https://vigna.di.unimi.it/ftp/papers/WeightedTau.pdf'
-url_slides: ''
-url_video: ''
+url_slides: '/uploads/slides/09-May-2025.pdf'
+url_video: 'https://rmiteduau-my.sharepoint.com/:v:/g/personal/chenglong_ma_rmit_edu_au/EbiEKh7r6IFJtCTvG9gtoJkBciot7eioYNMZDKS6gHpi3A?e=qIZbZO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -79,15 +79,9 @@ slides:
 projects:
 ---
 
-{{% cta cta_link="https://events.teams.microsoft.com/event/e8300f0c-1bcb-46fc-a76e-a6e78afbd35b@d1323671-cdbe-4417-b4d4-bdb24b51316b" cta_text="Register Now →" cta_new_tab="true" %}}
+### Recording of the Talk (RMIT Account Required)
 
-<!-- {{% callout warning %}} -->
-<!-- The date and time for this talk is to be announced soon. -->
-<!-- {{% /callout %}} -->
-
-> [!MEMO]
-> The **shared resources** will be available after the talk. Stay tuned!
->
+<iframe src="https://rmiteduau-my.sharepoint.com/personal/chenglong_ma_rmit_edu_au/_layouts/15/embed.aspx?UniqueId=1e2a84b8-e8eb-4981-b424-ef1bd82da099&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="800" height="450" frameborder="0" scrolling="no" allowfullscreen title="[TIGER Talk] _A Weighted Correlation Index for Rankings with Ties_, by Prof. Sebastiano Vigna [080.09.012 & MS Teams]-20250509_154339-Meeting Recording.mp4"></iframe>
 
 ### Getting There
 
