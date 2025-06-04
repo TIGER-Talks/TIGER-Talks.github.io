@@ -14,9 +14,9 @@
 
 1. Install [Go](https://go.dev/doc/install) (version 1.20 or later).
 2. Install [Hugo-Extended](https://gohugo.io/installation/) (version 0.120.0 or later).
-   > [!NOTE]
-   > Please use the **Extended** version of Hugo.
-   > 
+> [!NOTE]
+> Please use the **Extended** version of Hugo.
+> 
    - For example, on macOS, you can use [Homebrew](https://brew.sh/) to install Hugo Extended:
      ```bash
      brew install hugo
