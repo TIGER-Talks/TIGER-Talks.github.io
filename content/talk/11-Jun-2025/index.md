@@ -5,7 +5,7 @@ draft: false
 event: "TIGER Talk: From PhD to Industry: LLMs and Career Paths"
 # event_url: https://example.org
 
-location: "**B080.11.009** at RMIT & MS Teams"
+location: "**B080.02.002** at RMIT & MS Teams"
 address:
   street: Building 80/435-457 Swanston St
   city: Melbourne

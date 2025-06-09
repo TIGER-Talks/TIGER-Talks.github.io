@@ -20,7 +20,7 @@ sections:
         
         **Time:** 2:30 PM - 3:30 PM (AEDT)
         
-        **Location:** **B080.11.009** at RMIT University & MS Teams
+        **Location:** **B080.02.002** at RMIT University & MS Teams
         
         **Abstract:**
         This talk is divided into two parts. In the first, we'll explore the latest advances in artificial intelligence, from large language models (LLMs) to cutting-edge applications across industries. We'll also touch on the intriguing question of whether AI could ever approach a state of "infinite intelligence", and what that might mean for both research and society. In the second part, I'll share my personal journey transitioning from a PhD in machine learning to a role as Principal Data Scientist. We'll discuss the key differences between academic and industry ML, real-world case studies, and offer actionable career advice for PhD students interested in moving to industry—covering skills to build, common pitfalls, and how to bridge the gap between research and practical impact.
