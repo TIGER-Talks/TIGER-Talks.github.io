@@ -12,7 +12,7 @@ sections:
       subtitle: "From PhD to Industry: LLMs and Career Paths"
       text: |
 
-        {{% chenglongma_countdown date="2025-06-11 14:30" %}}
+        <!-- {{% chenglongma_countdown date="2025-06-11 14:30" %}} -->
         
         **Speaker:** {{% mention "Amin Sadri" %}}
         
