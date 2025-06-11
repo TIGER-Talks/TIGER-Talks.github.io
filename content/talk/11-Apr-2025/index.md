@@ -49,7 +49,7 @@ image:
 
 url_code: ''
 url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3673791.3698431'
-url_slides: ''
+url_slides: '/uploads/slides/11-Apr-2025.pdf'
 url_video: 'https://rmiteduau-my.sharepoint.com/:v:/g/personal/chenglong_ma_rmit_edu_au/ETe_uNdnSWBPlxIEmEdD1_MB0DkuoWUHPWCjTHWsXWlFcQ?e=TyYbDD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D'
 
 # Markdown Slides (optional).

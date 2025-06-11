@@ -45,8 +45,8 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: '/uploads/slides/11-Jun-2025.pdf'
+url_video: 'https://rmiteduau-my.sharepoint.com/:v:/g/personal/chenglong_ma_rmit_edu_au/EVDKrA32Ij1PkqEEz39hXugBnl5Kr9ozDIBhGLGn5BsJWA?e=JvVqY4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -63,15 +63,19 @@ slides:
 projects:
 ---
 
-{{% cta cta_link="https://events.teams.microsoft.com/event/0e65a523-8249-4825-ae79-534d350bd740@d1323671-cdbe-4417-b4d4-bdb24b51316b" cta_text="Register Now →" cta_new_tab="true" %}}
+<!-- {{% cta cta_link="https://events.teams.microsoft.com/event/0e65a523-8249-4825-ae79-534d350bd740@d1323671-cdbe-4417-b4d4-bdb24b51316b" cta_text="Register Now →" cta_new_tab="true" %}} -->
 
 <!-- {{% callout warning %}} -->
 <!-- The date and time for this talk is to be announced soon. -->
 <!-- {{% /callout %}} -->
 
-> [!MEMO]
-> The **shared resources** will be available after the talk. Stay tuned!
->
+<!-- > [!MEMO] -->
+<!-- > The **shared resources** will be available after the talk. Stay tuned! -->
+<!-- > -->
+
+### Talk Recording
+
+<iframe src="https://rmiteduau-my.sharepoint.com/personal/chenglong_ma_rmit_edu_au/_layouts/15/embed.aspx?UniqueId=0dacca50-22f6-4f3d-92a1-04cf7f615ee8&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="853" height="480" frameborder="0" scrolling="no" allowfullscreen title="[TIGER Talk] From PhD to Industry LLMs and Career Paths by Dr. Amin Sadri [080.02.002 & MS Teams]-20250611_143429-Meeting Recording.mp4"></iframe>
 
 ### Getting There
 
